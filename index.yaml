@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  smartbot-apiserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-01T16:29:48.942478Z"
+    description: A Helm chart for Kubernetes
+    digest: fd57648d19d5b65978722ff584e4ccab293785846a9a4af798f60426aa6edaa1
+    name: smartbot-apiserver
+    type: application
+    urls:
+    - https://strellio.github.io/smartbot-api-helm/smartbot-apiserver-1.1.8.tgz
+    version: 1.1.8
+generated: "2020-05-01T16:29:48.940779Z"
