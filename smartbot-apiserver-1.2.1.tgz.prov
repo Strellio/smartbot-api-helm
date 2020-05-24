@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+name: smartbot-apiserver
+type: application
+version: 1.2.1
+
+...
+files:
+  smartbot-apiserver-1.2.1.tgz: sha256:374f4ebb425044600007fb0f804acf723406201e60e71d15fdfc04919b5d7c34
+-----BEGIN PGP SIGNATURE-----
+
+wsBcBAEBCgAQBQJeymN9CRDGox9oQL3osgAA1YIIAGvPZ7ktKIyBniDPIE3TA+oC
+5u1Lf6ZeiSPkEpK9qZ2DFk8k9ofCzWapH62gHfKWdAN/oRvk0m/AGR9iLIySE0kN
+Yyj5VE3bGzlq0aqgV4HTY7/RqSsx9e2XbqUAXmoyYmWrN1gGUng9VX9DBwUY7xQu
+TflEYKKxxeW9JRme9bez35F1zoiNMFAEUw2bW9xzAdxDFc4wdcg7J58YfdZyDu7z
+VbQvOcoPj7bOgjKWDdenND4y9Vqx2P3T+cnmcZCFKUgL41oFktYCT5698R6Mw9P5
+XftKguCK0oUNTEz8RS0NFBvtn/k1PBixXh5pAq7KILo3V5KQtabKr6TR63JHdhM=
+=C6F+
+-----END PGP SIGNATURE-----
