@@ -3,7 +3,17 @@ entries:
   smartbot-apiserver:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-16T09:12:02.269393Z"
+    created: "2020-06-17T13:47:48.913078Z"
+    description: A Helm chart for Kubernetes
+    digest: 50b301d67b5689943360455b93dd86dabc522072ad23803e097452767a8a96fd
+    name: smartbot-apiserver
+    type: application
+    urls:
+    - smartbot-apiserver-1.2.3.tgz
+    version: 1.2.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-17T13:47:48.911952Z"
     description: A Helm chart for Kubernetes
     digest: 5c4f7835483968985f65348a5197d49eefdf8379db154d1b094742193faa3408
     name: smartbot-apiserver
@@ -13,7 +23,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-16T09:12:02.265983Z"
+    created: "2020-06-17T13:47:48.910622Z"
     description: A Helm chart for Kubernetes
     digest: 374f4ebb425044600007fb0f804acf723406201e60e71d15fdfc04919b5d7c34
     name: smartbot-apiserver
@@ -23,7 +33,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-16T09:12:02.264245Z"
+    created: "2020-06-17T13:47:48.909073Z"
     description: A Helm chart for Kubernetes
     digest: 3765bc7ba392ce7b4568466cc815b027780416d76d8904945542d6cb2a3f6876
     name: smartbot-apiserver
@@ -33,7 +43,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-16T09:12:02.262803Z"
+    created: "2020-06-17T13:47:48.905148Z"
     description: A Helm chart for Kubernetes
     digest: fd57648d19d5b65978722ff584e4ccab293785846a9a4af798f60426aa6edaa1
     name: smartbot-apiserver
@@ -41,4 +51,4 @@ entries:
     urls:
     - smartbot-apiserver-1.1.8.tgz
     version: 1.1.8
-generated: "2020-06-16T09:12:02.26093Z"
+generated: "2020-06-17T13:47:48.903529Z"
